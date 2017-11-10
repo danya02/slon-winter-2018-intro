@@ -1,4 +1,4 @@
-# TL,DR: [this script](solution.py)
+# TL;DR: [this script](solution.py)
 AKA "Revenge of the Linguists".
 
 (Idea partially taken from [this](https://github.com/seriyps/ru_number_to_text) project, which implements this task way better than this.)

@@ -1,4 +1,4 @@
-# TL,DR: [this script](solution.py)
+# TL;DR: [this script](solution.py)
 AKA "Monospace Fonts are a Good Thing".
 
 This one is pretty straightforward.

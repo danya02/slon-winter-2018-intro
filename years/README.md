@@ -1,4 +1,4 @@
-# TL,DR: 9
+# TL;DR: 9
 AKA "Attack of the Bignums".
 
 To do: get last digit of 2017^2018.
