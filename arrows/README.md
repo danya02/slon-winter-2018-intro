@@ -1,4 +1,4 @@
-# TL;DR: [this script](solution_curses.py), or [this one](solution_pygame.py), or [this](solution_pygame_complex.py)
+# TL;DR: [this script](solution_curses.py), or [this one](solution_pygame.py), or [this](pygame_solution_complex.py)
 AKA "There's More Than One Way to Do It".
 
 This is pretty simple to do, but can be made arbitrarily complex.
